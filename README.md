@@ -1,10 +1,13 @@
 # hello-world
 
-Learn all the things!
+**Learn all the things!**
 
-I've been a nerd since at least 4th grade. I'm a hardware junkie primarily, trying out systems administration, linux, and the vast new world of servers.
+New recruit to the world of systems admin, the almighty linux, and servers. Still, once a hardware junkie, always a hardware junkie!
 
-Tips, tricks, and bad ideas welcome! Also, hamsters and darkness...!
+Hamsters and redbull, y'all. 
 
-![Boo](https://user-images.githubusercontent.com/88226500/140710722-b4e8a6f8-34f2-4cd4-b261-3d5f487d9f2c.jpg)
-*credit to Magic The Gathering: Arena for the photo
+Namaste.
+
+*image credit to
+Wizards of the Coast
+![Boo](https://user-images.githubusercontent.com/88226500/140716309-d9a373d5-949d-4c96-94ca-f2fc256121f4.jpg)
